@@ -1,13 +1,5 @@
 # IIC3633 Sistemas Recomendadores
 
-### Foro
-
-La página de [Issues](https://github.com/PUC-RecSys-Class/Syllabus/issues) se utilizará como foro para preguntas.
-
-### Ayudantes
-
-| Nombre           | GitHub       | Correo            |
-| ---------------- | ------------ | ----------------- |
-| Manuel Cartagena | @micartagena | micartagena@uc.cl |
-| Antonio Ossa     | @aaossa      | aaossa@uc.cl      |
+Versión actualizada del curso y sus actividades para el 2do semestre de 2020 en:
+https://github.com/PUC-RecSys-Class/RecSysPUC-2020
 
